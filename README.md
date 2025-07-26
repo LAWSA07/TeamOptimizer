@@ -10,6 +10,57 @@ An intelligent team formation system that uses AI to optimize team composition b
 - **Analytics Dashboard**: Performance metrics and team insights
 - **Real-time Collaboration**: Team communication and project tracking
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](frontend/public/Screenshot%202025-07-26%20014349.png)
+*Main dashboard showing team overview and key metrics*
+
+### Employee Management
+![Employee Management](frontend/public/Screenshot%202025-07-26%20014356.png)
+*Employee profiles and skill management interface*
+
+### Project Creation
+![Project Creation](frontend/public/Screenshot%202025-07-26%20014851.png)
+*Creating new projects with role requirements*
+
+### Team Optimization
+![Team Optimization](frontend/public/Screenshot%202025-07-26%20121816.png)
+*AI-powered team formation and optimization*
+
+### Analytics Dashboard
+![Analytics Dashboard](frontend/public/Screenshot%202025-07-26%20121834.png)
+*Performance analytics and team insights*
+
+### Collaboration Interface
+![Collaboration Interface](frontend/public/Screenshot%202025-07-26%20121843.png)
+*Real-time team collaboration and communication*
+
+### Project Management
+![Project Management](frontend/public/Screenshot%202025-07-26%20121850.png)
+*Project tracking and management features*
+
+### Skill Assessment
+![Skill Assessment](frontend/public/Screenshot%202025-07-26%20121858.png)
+*Employee skill assessment and evaluation*
+
+### Team Performance
+![Team Performance](frontend/public/Screenshot%202025-07-26%20121913.png)
+*Team performance metrics and reporting*
+
+### User Settings
+![User Settings](frontend/public/Screenshot%202025-07-26%20121922.png)
+*User preferences and account settings*
+
+### Mobile Responsive
+![Mobile Responsive](frontend/public/Screenshot%202025-07-26%20121932.png)
+*Mobile-friendly interface design*
+
+### Advanced Features
+![Advanced Features](frontend/public/Screenshot%202025-07-26%20121940.png)
+*Advanced team optimization features*
+
+
 ## 🛠️ Tech Stack
 
 ### Frontend
