@@ -6,10 +6,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-app = FastAPI(title="TeamOptimizer API", version="1.0.0")
+# Initialize FastAPI app
+app = FastAPI()
 
 # CORS middleware - Production ready
-allowed_origins = os.getenv("ALLOWED_ORIGINS", "http://localhost:3000,http://localhost:3001").split(",")
+allowed_origins = [origin.strip() for origin in os.getenv("ALLOWED_ORIGINS", "http://localhost:3000,http://localhost:3001").split(",")]
 app.add_middleware(
     CORSMiddleware,
     allow_origins=allowed_origins,
